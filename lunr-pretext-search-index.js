@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Introduction",
-  "body": " Introduction  I find it easier to remember concepts when I define them in terms of Objects and the Morphisms that act on the objects. Usually a lot of concepts can be reduced to a set $X$, a function $f$ that acts on $X$, and its image $Y$.  "
+  "body": " Introduction  I find it easier to remember concepts when I define them in terms of Objects and the Morphisms that act on the objects. Usually a lot of concepts can be reduced to a set , a function that acts on , and its image .  "
 },
 {
   "id": "section-2-title",
