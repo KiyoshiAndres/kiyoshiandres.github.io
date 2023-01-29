@@ -3,7 +3,7 @@
 !.gitignore
 
 # don't track unpublished builds
-
+output/web
 
 # don't track assets generated from source
 generated-assets
