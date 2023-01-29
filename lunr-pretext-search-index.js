@@ -15,8 +15,17 @@ var ptx_lunr_docs = [
   "url": "section-title.html",
   "type": "Section",
   "number": "1.1",
-  "title": "Section title",
-  "body": " Section title  Hello  "
+  "title": "Introduction",
+  "body": " Introduction  I find it easier to remember concepts when I define them in terms of Objects and the Morphisms that act on the objects. Usually a lot of concepts can be reduced to a set $X$, a function $f$ that acts on $X$, and its image $Y$.  "
+},
+{
+  "id": "section-2-title",
+  "level": "1",
+  "url": "section-2-title.html",
+  "type": "Section",
+  "number": "1.2",
+  "title": "Definitions",
+  "body": " Definitions  Hello  "
 },
 {
   "id": "colophon-2",
