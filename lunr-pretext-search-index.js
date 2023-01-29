@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Colophon",
   "number": "",
   "title": "Colophon",
-  "body": "   example.org   https:\/\/example.org   copyright  "
+  "body": "   kiyoshitakeuchi.com   https:\/\/www.kiyoshitakeuchi.com   copyright  "
 },
 {
   "id": "section-title",
@@ -25,7 +25,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "Definitions",
-  "body": " Definitions  Hello  "
+  "body": " Definitions  Perceptron: Consider the set of training datas with labels. A perceptron is a function from to the set of Threshold Functions such that the domain of f(x) is x. A Threshold Function is defined as follows: where . Now, for Neural Networks the definition changes a little. And most other definitions for Neural Networks will be molded similarly defined. This time, the domain and codomain are the product and respectively, where is the set of all single layer neurons.  Support Vector Machine:  Backpropagation:  "
+},
+{
+  "id": "section-2-1title",
+  "level": "1",
+  "url": "section-2-1title.html",
+  "type": "Section",
+  "number": "2.1",
+  "title": "Introduction",
+  "body": " Introduction    "
 },
 {
   "id": "colophon-2",
