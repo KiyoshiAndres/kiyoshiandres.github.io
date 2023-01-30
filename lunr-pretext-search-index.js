@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "1",
   "title": "Calculus",
-  "body": " Calculus   Introduction  Directly to problem solving.    Lagrange Multipliers  For some reason, the method of Lagrange Multipliers shows up frequently in entrance exams to universities in Japan.    Integrals  There's various methods of solving integrals that are tested in Japan. The main ones I can think of are using the Residue Theorem, differentiating under the integral sign, and change of variables. Change of variables will be treated elsewhere.   "
+  "body": " Calculus   Introduction  Directly to problem solving.    Lagrange Multipliers  For some reason, the method of Lagrange Multipliers shows up frequently in entrance exams to universities in Japan. This method helps with finding the maxima and minima of a function given some constraint .    Integrals  There's various methods of solving integrals that are tested in Japan. The main ones I can think of are using the Residue Theorem, differentiating under the integral sign, and change of variables. Change of variables will be treated elsewhere.   "
 },
 {
   "id": "machine-learning",
@@ -61,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "5",
   "title": "Cyber Security",
-  "body": " Cyber Security   Introduction     "
+  "body": " Cyber Security   Introduction      Definitions  Targeted Email Attack: Targeted refers to the nature of the attack being destined for a specific organization or industry. Email refers to the medium by which the attack is done. An example of this is an email containing malware to steal the data of a certain company. A popular type of targeted email attack is called spear phishing. It involves research on the victim, and tailoring the email to them.     "
 },
 {
   "id": "colophon-2",
