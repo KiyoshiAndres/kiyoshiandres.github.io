@@ -1,1 +1,1 @@
-{"source/main.ptx": ["my-great-book", "frontmatter", "chapter-title", "section-title", "section-2-title", "chapter-2-title", "section-2-1title", "backmatter"]}
+{"source/main.ptx": ["my-great-book", "frontmatter", "backmatter"], "source/informatics/machinelearning.ptx": ["machine-learning", "m-l-intro", "m-l-definitions"], "source/informatics/algorithms.ptx": ["algorithms", "algo-intro"], "source/informatics/statistics.ptx": ["statistics"], "source/informatics/cybersecurity.ptx": ["cybersecurity", "cybersec-intro"]}
